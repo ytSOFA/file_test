@@ -1,32 +1,4 @@
 {
-  "tokens": {
-    "ethereum": {
-      "usdt": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "rch": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
-      "scrvusd": "0x0655977FEb2f289A4aB78af67BAB0d17aAb84367",
-      "ausdt":"0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
-      "zrch": "0x57B96D4aF698605563A4653D882635da59Bf11AF",
-      "steth": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-      "crvusd": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
-      "crv": "0xd533a949740bb3306d119cc777fa900ba034cd52"
-    },
-    "arbitrum": {
-      "usdt": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-      "usdc": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-      "ausdt": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620"
-    },
-    "bsc": {
-      "usdt": "0x55d398326f99059ff775485246999027b3197955",
-      "rtcic": "0xD7EE80546EB6Da5Ece3546f11c618a1e1158cC7a"
-    },
-    "polygon": {
-      "usdt": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
-    },
-    "sei": {
-      "susda": "0x6aB5d5E96aC59f66baB57450275cc16961219796",
-      "usdc": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1"
-    }
-  },
   "ethereum": {
     "dnt": {
       "usdt": [
