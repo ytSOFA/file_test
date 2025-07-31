@@ -15,8 +15,7 @@
         "ausdt": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620"
     },
     "bsc": {
-        "usdt": "0x55d398326f99059ff775485246999027b3197955",
-        "rtcic": "0xD7EE80546EB6Da5Ece3546f11c618a1e1158cC7a"
+        "usdt": "0x55d398326f99059ff775485246999027b3197955"
     },
     "polygon": {
         "usdt": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
